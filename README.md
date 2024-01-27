@@ -1,5 +1,5 @@
 # Cam-gack
- یک ابزار که یه اینک تولید میکنم  برای نفوذ به دوربین جلوی گوشی قربانی 
+ یک ابزار که یه لینک تولید میکنم  برای نفوذ به دوربین جلوی گوشی قربانی 
 
 
 1 git clone https://github.com/KasRoudra/VidPhisher
@@ -7,7 +7,9 @@
 2 cd VidPhisher
 
 برای ترموکس از دستور زیر نیز استفاده کنید
+
 3 termux-setup-storage
+
 
 4 bash vp.sh
 
